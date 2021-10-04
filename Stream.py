@@ -2,7 +2,6 @@ import pandas as pd
 import streamlit as st
 import numpy as np
 import pickle
-from streamlit.proto.Button_pb2 import Button
 from PIL import Image
 
 image = Image.open('img/casa_ap.jpg')
